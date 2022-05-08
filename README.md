@@ -1,4 +1,4 @@
-# CSQ品質力發展委員會![學會品字Logo](https://user-images.githubusercontent.com/105065929/167281189-b2e6fda0-5ac7-4136-ae11-5498c73ea777.png)
+# ![學會品字Logo](https://user-images.githubusercontent.com/105065929/167281189-b2e6fda0-5ac7-4136-ae11-5498c73ea777.png)CSQ品質力發展委員會
 
 ## CSQ品力會宗旨及組織
 ### 宗旨：致力於提升會員團體與個人及有志品質工作者之品質力，協助所屬組織蛻為數位型品質治理組織。
